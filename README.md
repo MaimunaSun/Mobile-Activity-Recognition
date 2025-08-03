@@ -1,2 +1,2 @@
-# Mobile-Activity-Recognition
+# Mobile-Activity-Recognition (Machine Learning Model)
 This project involves designing and developing a mobile activity recognition model using machine learning, guided by research into state-of-the-art academic literature. The repository includes two files: activity_recognition.ipynb, a Jupyter Notebook containing the full implementation, explanations, and results (best viewed in a Jupyter environment like GitHub.dev, Google Colab, or Jupyter Lab), and activity_recognition.py, a plain Python script version for quick code preview directly on GitHub.
